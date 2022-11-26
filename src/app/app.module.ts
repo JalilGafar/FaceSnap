@@ -18,9 +18,7 @@ import { LandingPageModule } from './landing-page/landing-page.module';
     BrowserModule,
     AppRoutingModule,
     FormsModule,
-   // HttpClientModule,
     CoreModule,
-    FaceSnapsModule,
     LandingPageModule
   ],
   providers: [
